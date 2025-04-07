@@ -66,8 +66,8 @@ Feel free to submit a pull request if you have updated salary data, new cloud jo
 ## 📬 Contact
 
 **Author**: Ankush Bhadauriya  
-**LinkedIn**: [@ankushbhadauriya](https://www.linkedin.com/in/iankushsingh7)  
-**GitHub**: [@ankushbhadauriya](https://github.com/iankushsingh)
+**LinkedIn**: [@iankushsingh7](https://www.linkedin.com/in/iankushsingh7)  
+**GitHub**: [@1ankushsingh](https://github.com/iankushsingh)
 
 ---
 
